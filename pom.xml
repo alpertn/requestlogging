@@ -38,6 +38,7 @@
             <artifactId>spring-boot-starter-websocket</artifactId>
         </dependency>
 
+<<<<<<< HEAD
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -47,6 +48,8 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-websocket</artifactId>
         </dependency>
+=======
+>>>>>>> 431a52539d8fd43a2e3ce01ab20d6c3f90ef91c9
         <!-- Spring Data JPA -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
